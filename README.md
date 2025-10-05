@@ -1,8 +1,8 @@
 # Hyperledger Fabric Assignment - Golang Implementation
 
 ## Project structure
-->chaincode/asset/asset.go
-->api/
+-chaincode/asset/asset.go
+-api/
    - server.go
     -go.mod
     -Dockerfile
