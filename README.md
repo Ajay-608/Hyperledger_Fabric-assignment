@@ -1,11 +1,13 @@
 # Hyperledger Fabric Assignment - Golang Implementation
 
 ## Project structure
--chaincode/asset/asset.go
--api/
-   - server.go
-    -go.mod
-    -Dockerfile
+-chaincode
+
+-asset -> asset.go
+
+-api
+
+   - server.go,go.mod,Dockerfile
 
 
 ## What is included
