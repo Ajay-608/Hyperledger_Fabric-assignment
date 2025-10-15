@@ -41,7 +41,7 @@ fabric-assignment/
    # copy chaincode to fabric-samples/chaincode/asset and then:
    ./network.sh deployCC -ccn asset -ccp ../chaincode/asset -ccl go
    ```
-4. Prepare gateway connection and wallet (see PDF docs).
+4. Prepare gateway connection and wallet.
 5. Build and run REST API:
    ```bash
    cd /path/to/fabric-assignment/api
